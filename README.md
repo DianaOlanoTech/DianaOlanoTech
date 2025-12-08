@@ -1,16 +1,32 @@
-## Hi there 👋
+# Diana Sofia Olano  
+**Software Systems Engineer | Backend & Web Developer**
 
-<!--
-**DianaOlanoTech/DianaOlanoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Systems Engineer with hands-on experience in backend and web application development. I focus on building reliable, maintainable, and well-structured software. I have contributed to production systems using modern technologies, participating in API development, frontend integration, performance optimization, functional testing, and cloud deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Technical Competencies
+
+**Backend:** .NET (C#), Node.js, Java, Python  
+**Frontend:** React, Next.js, HTML/CSS, Tailwind  
+**Databases:** PostgreSQL, MySQL, Oracle  
+**Cloud:** AWS (API Gateway, Lambda, SAM)  
+**Tools & Processes:** Git, Agile/Scrum 
+
+---
+
+### 🎯 Professional Interests
+
+- Web Development 
+- Backend Development
+- Cloud services Development
+
+---
+
+### 📫 Contact
+
+- Email: **dianaolanoempresarial@hotmail.com**  
+- LinkedIn: **linkedin.com/in/dianaolano**  
+- GitHub: **github.com/DianaOlanoTech**
+
+---
