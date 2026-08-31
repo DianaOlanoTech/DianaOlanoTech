@@ -15,11 +15,11 @@ clean, maintainable solutions that solve real-world problems.
 - 💻 Software Engineer with hands-on experience in **backend and full-stack development**
 - 🔧 Professional experience with **C#/.NET, Node.js, React, JavaScript/TypeScript, Python, and AWS**
 - ☕ Strong foundation in **Java and Spring Boot**
-- 🔌 Experience designing, building, consuming, and testing **REST APIs**
-- 🗄️ Experience working with **PostgreSQL, MySQL, and OracleSQL**
+- 🔌 Experience building and consuming **REST APIs**
+- 🗄️ Experience working with **PostgreSQL, MySQL, and Oracle**
 - ☁️ Experience with **AWS Lambda, API Gateway, and serverless environments**
 - 🤖 Exposure to **LLM integrations and AI-powered applications**
-- 🌱 Interested in **backend development, full stack development, and AI development**
+- 🌱 Interested in **backend development, full-stack development, and AI-powered applications**
 - 🌎 Open to remote opportunities and international teams
 
 ---
@@ -56,13 +56,13 @@ clean, maintainable solutions that solve real-world problems.
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Development Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -70,18 +70,13 @@ clean, maintainable solutions that solve real-world problems.
 
 ### 📰 Enube News App
 
-A full-stack application developed around semantic search and news discovery.
+Full-stack semantic news search application built with **FastAPI, React,
+Qdrant, and Docker**.
 
-The project combines a **FastAPI backend** and **React frontend**, with vector
-search and multilingual embeddings to support semantic search and article similarity.
-
-**Highlights:**
-
-- 🔎 Semantic search using vector embeddings
-- 🧠 Multilingual embeddings
-- ⚡ REST API built with FastAPI
-- 🎨 React-based web interface
-- 🐳 Docker and Docker Compose
+- 🔎 Semantic search using multilingual embeddings
+- ⚡ REST API with FastAPI
+- 🎨 Responsive React interface
+- 🐳 Dockerized local environment
 
 [View Project →](https://github.com/DianaOlanoTech/Enube-News-App)
 
@@ -89,20 +84,14 @@ search and multilingual embeddings to support semantic search and article simila
 
 ### ✍️ Signa IP
 
-A full-stack application for managing trademark records through a REST API
-and a web interface.
+Full-stack trademark management application built as separate **Next.js
+frontend** and **FastAPI backend** repositories.
 
-The backend uses **FastAPI, SQLAlchemy, Pydantic, Alembic, and PostgreSQL**,
-while the frontend is built with **Next.js, React, and Tailwind CSS**.
-
-**Highlights:**
-
-- 🔄 CRUD operations
-- 📄 Paginated API responses
-- 🗃️ Database migrations with Alembic
-- 🔌 REST API with Swagger documentation
-- 🌐 Responsive web interface
-- 🚀 Deployed backend and frontend
+- 🔌 REST API with CRUD operations
+- 📄 Server-side pagination
+- 🗃️ PostgreSQL and Alembic migrations
+- 🎨 Responsive Next.js and React interface
+- ☁️ Frontend and backend deployed independently
 
 [Backend →](https://github.com/DianaOlanoTech/signa-backend) ·
 [Frontend →](https://github.com/DianaOlanoTech/signa-frontend)
@@ -114,12 +103,14 @@ while the frontend is built with **Next.js, React, and Tailwind CSS**.
 - Backend Development
 - Full Stack Development
 - REST APIs & Integrations
+- Cloud & Serverless Applications
 - AI-powered Applications
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana%20Olano-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaolano/)
+I'm always open to connecting with fellow developers, recruiters, and
+potential collaborators.
 
-[![GitHub](https://img.shields.io/badge/GitHub-DianaOlanoTech-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DianaOlanoTech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana%20Olano-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianaolano/)
