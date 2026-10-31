@@ -13,7 +13,7 @@ clean, maintainable solutions that solve real-world problems.
 ## 🚀 About Me
 
 - 💻 Software Engineer with hands-on experience in **backend and full-stack development**
-- 🔧 Professional experience with **C#/.NET, Node.js, React, JavaScript/TypeScript, Python, and AWS**
+- 🔧 Professional experience with **Node.js, React, JavaScript/TypeScript, Python, and AWS**
 - ☕ Strong foundation in **Java and Spring Boot**
 - 🔌 Experience building and consuming **REST APIs**
 - 🗄️ Experience working with **PostgreSQL, MySQL, and Oracle**
@@ -30,14 +30,12 @@ clean, maintainable solutions that solve real-world problems.
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -62,7 +60,6 @@ clean, maintainable solutions that solve real-world problems.
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
